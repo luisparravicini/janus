@@ -4,7 +4,7 @@ Janus
 First game I've made, in the good ol' days of 1995.
 Coded in Pascal and Assembler and using the beautiful [mode 13h](http://en.wikipedia.org/wiki/Mode_13h) (320x200, 256 colors).
 
-The game and the source code comments are in Spanish. The sprites are ripped from [Space Commanders](http://en.wikipedia.org/wiki/Space_Commanders).
+The game and the source code comments are in Spanish. The sprites are ripped from [Space Commanders](http://en.wikipedia.org/wiki/Space_Commanders). Runs on DOS, and runs well with [DOSBox](http://www.dosbox.com/).
 
 Gameplay: https://www.youtube.com/watch?v=dKUngHAKZ_I
 
