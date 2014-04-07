@@ -1,0 +1,5 @@
+
+04/08/1995  v1.0  -Primera versi¢n.
+                  -Bugs conocidos:
+                                  Cuando se mueven las naves enemigas corren
+                                  las estrellas un pixel a la izquierda.
